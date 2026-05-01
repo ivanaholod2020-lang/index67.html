@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Продвинутый текстовый редактор</title>
+    <title>морской текстовый редактор</title>
     <style>
         * {
             margin: 0;
