@@ -2,9 +2,6 @@
 
     <html>
     <head>
-    <meta name="yandex-verification" content="13d3e79256a5d36e" />
-   
-</html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Продвинутый текстовый редактор</title>
