@@ -3,9 +3,7 @@
     <html>
     <head>
     <meta name="yandex-verification" content="13d3e79256a5d36e" />
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    </head>
-    <body>Verification: 13d3e79256a5d36e</body>
+   
 </html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
